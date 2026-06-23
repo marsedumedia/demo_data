@@ -1,13 +1,14 @@
 {
     "wp_options": {
         "blogname": "SMK Edu Media",
-        "blogdescription": "Mewujudkan Generasi Cerdas dan Berkarakter",
+        "blogdescription": "Terdepan Dalam Teknologi",
         "users_can_register": 0
     },
     "theme_mods": {
-        "custom_logo": 12,
+        "custom_logo": 1,
+        "site_icon": 2,
         "marspinnacle_seo_title": "Profil Sekolah Prestasi Unggul",
-        "marspinnacle_seo_desc": "Website resmi Sekolah Prestasi Unggul - Pusat Pendidikan Berkualitas",
+        "marspinnacle_seo_desc": "Website resmi SMK Edu Media - Pusat Pendidikan Berkualitas",
         "marspinnacle_seo_keywords": "sekolah, pendidikan, prestasi, unggul, jakarta",
         "marspinnacle_alamat": "Jl. Pendidikan Raya No. 45, Jakarta Pusat",
         "marspinnacle_telp": "(021) 1234-5678",
