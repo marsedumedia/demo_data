@@ -1,18 +1,18 @@
 {
     "primary": [
-        {"title": "Beranda", "url": "/", "type": "custom"},
+        {"title": "Beranda", "slug": "beranda", "type": "post_type"},
         {"title": "Profil", "url": "#", "type": "custom", "slug": "profil"},
         {"title": "Sambutan Kepala Sekolah", "slug": "sambutan-kepala-sekolah", "type": "post_type", "parent_slug": "profil"},
         {"title": "Visi dan Misi", "slug": "visi-misi", "type": "post_type", "parent_slug": "profil"},
         {"title": "Sejarah Sekolah", "slug": "sejarah-sekolah", "type": "post_type", "parent_slug": "profil"},
-        {"title": "Berita", "url": "/berita", "type": "custom"},
+        {"title": "Berita", "slug": "berita", "type": "post_type"},
         {"title": "Galeri", "slug": "galeri", "type": "post_type"},
         {"title": "Agenda", "slug": "agenda", "type": "post_type"},
         {"title": "Kontak", "slug": "kontak", "type": "post_type"}
     ],
     "footer-links": [
-        {"title": "PPDB Sekolah", "url": "/ppdb", "type": "custom"},
-        {"title": "Kalender Akademik", "url": "/kalender", "type": "custom"},
-        {"title": "Sistem E-Learning", "url": "/elearning", "type": "custom"}
+        {"title": "PPDB Sekolah", "url": "ppdb/", "type": "custom"},
+        {"title": "Kalender Akademik", "url": "kalender/", "type": "custom"},
+        {"title": "Sistem E-Learning", "url": "elearning/", "type": "custom"}
     ]
 }
