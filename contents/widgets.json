@@ -1,0 +1,14 @@
+{
+    "main-sidebar": [
+        "mars_search_widget",
+        "mars_recent_posts",
+        "mars_popular_posts",
+        "mars_recent_comments",
+        "mars_categories_widget",
+        "mars_tags_widget"
+    ],
+    "agenda-sidebar": [
+        "mars_agenda_widget",
+        "mars_kaldik_widget"
+    ]
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "judul": "Kegiatan Upacara Bendera",
+        "desk": "Suasana upacara bendera hari Senin yang diikuti oleh seluruh siswa dan guru dengan khidmat.",
+        "foto": "https://raw.githubusercontent.com/mersedumedia/demo-data/main/images/galeri/upacara.jpg"
+    },
+    {
+        "judul": "Laboratorium Komputer",
+        "desk": "Siswa sedang mempraktikkan pelajaran desain grafis di ruang laboratorium komputer yang baru.",
+        "foto": "https://raw.githubusercontent.com/mersedumedia/demo-data/main/images/galeri/lab-kom.jpg"
+    },
+    {
+        "judul": "Perpustakaan Sekolah",
+        "desk": "Suasana tenang di perpustakaan sekolah saat jam istirahat berlangsung.",
+        "foto": "https://raw.githubusercontent.com/mersedumedia/demo-data/main/images/galeri/perpustakaan.jpg"
+    }
+]

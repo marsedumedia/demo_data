@@ -1,0 +1,29 @@
+[
+    {
+        "nama": "Drs. Budi Santoso, M.Pd.",
+        "foto": "https://raw.githubusercontent.com/user/repo/main/images/teacher2.jpg",
+        "nip": "198001012005011001",
+        "mapel": "Matematika",
+        "jk": "Laki-laki",
+        "linkedin": "https://linkedin.com/in/budi-santoso",
+        "email": "budi.santoso@sekolah.sch.id"
+    },
+    {
+        "nama": "Siti Aminah, S.Si.",
+        "foto": "https://raw.githubusercontent.com/user/repo/main/images/siti.jpg",
+        "nip": "198505052010012002",
+        "mapel": "Fisika",
+        "jk": "Perempuan",
+        "linkedin": "https://linkedin.com/in/siti-aminah",
+        "email": "siti.aminah@sekolah.sch.id"
+    },
+    {
+        "nama": "Andi Wijaya, S.Pd.",
+        "foto": "https://raw.githubusercontent.com/user/repo/main/images/andi.jpg",
+        "nip": "199010102015011003",
+        "mapel": "Bahasa Inggris",
+        "jk": "Laki-laki",
+        "linkedin": "https://linkedin.com/in/andi-wijaya",
+        "email": "andi.wijaya@sekolah.sch.id"
+    }
+]

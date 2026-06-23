@@ -1,0 +1,33 @@
+<p>Perjalanan sekolah kami merupakan cerminan dari dedikasi dan kerja keras seluruh pihak dalam membangun pendidikan yang berkualitas.</p>
+
+<div class="sejarah-timeline">
+    <h3>Perjalanan Kami</h3>
+    
+    <dl>
+        <dt><strong>2005 – Awal Berdiri</strong></dt>
+        <dd>Sekolah didirikan sebagai bentuk kepedulian terhadap kebutuhan pendidikan yang berkualitas bagi masyarakat sekitar. Pada tahun pertama, kegiatan belajar mengajar dilaksanakan dengan jumlah peserta didik dan tenaga pendidik yang masih terbatas serta fasilitas yang sederhana.</dd>
+
+        <dt><strong>2008 – Pengembangan Fasilitas</strong></dt>
+        <dd>Sekolah mulai melakukan pengembangan sarana dan prasarana dengan pembangunan ruang kelas baru, perpustakaan, serta peningkatan fasilitas penunjang pembelajaran untuk menciptakan lingkungan belajar yang lebih nyaman.</dd>
+
+        <dt><strong>2012 – Peningkatan Mutu Pendidikan</strong></dt>
+        <dd>Berbagai program peningkatan kompetensi guru mulai dilaksanakan secara berkelanjutan. Sekolah juga menerapkan berbagai inovasi pembelajaran untuk meningkatkan kualitas pendidikan dan prestasi peserta didik.</dd>
+
+        <dt><strong>2016 – Prestasi dan Pengakuan</strong></dt>
+        <dd>Peserta didik mulai meraih berbagai prestasi di tingkat kecamatan, kabupaten, hingga provinsi baik dalam bidang akademik maupun nonakademik. Keberhasilan tersebut semakin memperkuat kepercayaan masyarakat terhadap sekolah.</dd>
+
+        <dt><strong>2020 – Transformasi Digital</strong></dt>
+        <dd>Sekolah mulai mengembangkan pemanfaatan teknologi informasi dalam proses pembelajaran dan administrasi. Berbagai layanan digital diperkenalkan untuk mendukung kegiatan belajar yang lebih efektif dan efisien.</dd>
+
+        <dt><strong>2023 – Penguatan Program Unggulan</strong></dt>
+        <dd>Berbagai program unggulan dikembangkan, seperti penguatan karakter, literasi, numerasi, pengembangan bakat dan minat, serta pembelajaran berbasis proyek untuk mempersiapkan peserta didik menghadapi tantangan masa depan.</dd>
+    </dl>
+</div>
+
+<div class="sejarah-footer">
+    <h3>Saat Ini</h3>
+    <p>Hingga saat ini, sekolah terus berkomitmen menjadi lembaga pendidikan yang unggul, berkarakter, dan berprestasi. Dengan dukungan seluruh warga sekolah, orang tua, alumni, dan masyarakat, sekolah terus berinovasi untuk memberikan layanan pendidikan terbaik bagi generasi penerus bangsa.</p>
+
+    <h3>Masa Depan</h3>
+    <p>Sekolah bertekad untuk terus meningkatkan kualitas pendidikan, memperluas pemanfaatan teknologi, memperkuat budaya belajar, serta menghasilkan lulusan yang berkarakter, kompeten, dan siap menghadapi perkembangan zaman.</p>
+</div>

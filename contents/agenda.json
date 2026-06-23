@@ -1,0 +1,23 @@
+[
+    {
+        "judul": "Rapat Kerja Tahunan Sekolah",
+        "tgl_mulai": "2026-07-01",
+        "tgl_selesai": "2026-07-02",
+        "lokasi": "Aula Utama",
+        "warna": "#dc3545"
+    },
+    {
+        "judul": "Peringatan Hari Pendidikan Nasional",
+        "tgl_mulai": "2026-05-02",
+        "tgl_selesai": "2026-05-02",
+        "lokasi": "Lapangan Sekolah",
+        "warna": "#198754"
+    },
+    {
+        "judul": "Ujian Akhir Semester Ganjil",
+        "tgl_mulai": "2026-12-05",
+        "tgl_selesai": "2026-12-15",
+        "lokasi": "Ruang Kelas",
+        "warna": "#0d6efd"
+    }
+]

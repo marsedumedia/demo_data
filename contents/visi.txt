@@ -1,0 +1,20 @@
+<div class="visi-sekolah" style="margin-bottom: 30px;">
+    <h3>Visi Sekolah</h3>
+    <blockquote style="font-style: italic; font-size: 1.2em; border-left: 5px solid #2c3e50; padding-left: 15px; color: #2c3e50;">
+        “Menjadi sekolah unggul yang berkarakter, berprestasi, berwawasan lingkungan, serta mampu beradaptasi dengan perkembangan ilmu pengetahuan dan teknologi.”
+    </blockquote>
+</div>
+
+<div class="misi-sekolah">
+    <h3>Misi Sekolah</h3>
+    <ol>
+        <li><strong>Pengembangan Potensi:</strong> Menyelenggarakan pembelajaran yang aktif, kreatif, inovatif, dan menyenangkan untuk mengembangkan potensi peserta didik secara optimal.</li>
+        <li><strong>Pendidikan Karakter:</strong> Menanamkan nilai-nilai karakter, akhlak mulia, disiplin, tanggung jawab, dan kepedulian sosial dalam kehidupan sehari-hari.</li>
+        <li><strong>Peningkatan Prestasi:</strong> Meningkatkan prestasi akademik dan nonakademik melalui pembinaan yang terarah dan berkelanjutan.</li>
+        <li><strong>Budaya Literasi:</strong> Mengembangkan budaya literasi, numerasi, serta kemampuan berpikir kritis dan kreatif.</li>
+        <li><strong>Integrasi Teknologi:</strong> Memanfaatkan teknologi informasi dan komunikasi sebagai sarana pembelajaran dan pengembangan kompetensi peserta didik.</li>
+        <li><strong>Lingkungan Kondusif:</strong> Menciptakan lingkungan sekolah yang aman, nyaman, sehat, bersih, dan ramah anak.</li>
+        <li><strong>Kolaborasi:</strong> Menjalin kerja sama yang harmonis antara sekolah, orang tua, dan masyarakat dalam mendukung proses pendidikan.</li>
+        <li><strong>Kesadaran Lingkungan:</strong> Menumbuhkan sikap peduli lingkungan serta membangun budaya hidup yang berkelanjutan.</li>
+    </ol>
+</div>

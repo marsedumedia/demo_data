@@ -1,0 +1,21 @@
+<p>Dalam dunia yang dipenuhi informasi, kemampuan <strong>berpikir kritis</strong> menjadi salah satu keterampilan yang sangat penting. Berpikir kritis adalah kemampuan untuk menganalisis informasi secara objektif, mengevaluasi berbagai sudut pandang, dan mengambil keputusan berdasarkan alasan yang logis.</p>
+
+<h3>Manfaat Berpikir Kritis</h3>
+<ul>
+    <li><strong>Membantu Memecahkan Masalah:</strong> Seseorang yang berpikir kritis mampu mengidentifikasi akar masalah dan menemukan solusi yang efektif.</li>
+    <li><strong>Meningkatkan Kemampuan Pengambilan Keputusan:</strong> Keputusan yang baik biasanya didasarkan pada analisis yang matang dan pertimbangan yang rasional.</li>
+    <li><strong>Mengurangi Kesalahan Informasi:</strong> Kemampuan berpikir kritis membantu seseorang memverifikasi informasi sebelum mempercayai atau menyebarkannya.</li>
+    <li><strong>Mendorong Kreativitas:</strong> Berpikir kritis tidak hanya berkaitan dengan analisis, tetapi juga kemampuan menemukan alternatif solusi yang inovatif.</li>
+</ul>
+
+<h3>Cara Mengembangkan Berpikir Kritis</h3>
+<ol>
+    <li>Membiasakan bertanya.</li>
+    <li>Menganalisis berbagai sumber informasi.</li>
+    <li>Berdiskusi secara terbuka.</li>
+    <li>Menyelesaikan studi kasus.</li>
+    <li>Melakukan refleksi terhadap pengalaman.</li>
+</ol>
+
+<h3>Peran Guru dalam Mengembangkan Berpikir Kritis</h3>
+<p>Guru dapat menciptakan lingkungan belajar yang mendorong siswa untuk mengemukakan pendapat, bertanya, dan mengevaluasi informasi. Pembelajaran yang berpusat pada peserta didik memberikan kesempatan lebih besar bagi mereka untuk mengembangkan kemampuan berpikir kritis.</p>

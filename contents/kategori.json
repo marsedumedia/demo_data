@@ -1,0 +1,27 @@
+[
+    {
+        "nama": "Agenda Sekolah",
+        "slug": "agenda-sekolah",
+        "deskripsi": "Informasi resmi jadwal kegiatan dan event sekolah."
+    },
+    {
+        "nama": "Aktivitas Siswa",
+        "slug": "aktivitas-siswa",
+        "deskripsi": "Liputan kegiatan harian dan ekstrakurikuler siswa."
+    },
+    {
+        "nama": "Pencapaian Siswa",
+        "slug": "pencapaian-siswa",
+        "deskripsi": "Daftar prestasi dan penghargaan yang diraih oleh siswa."
+    },
+    {
+        "nama": "Kreativitas Siswa",
+        "slug": "kreativitas-siswa",
+        "deskripsi": "Karya seni, tulis, dan proyek inovatif hasil karya siswa."
+    },
+    {
+        "nama": "Warta Pendidikan",
+        "slug": "warta-pendidikan",
+        "deskripsi": "Artikel, opini, dan informasi umum seputar dunia pendidikan."
+    }
+]
