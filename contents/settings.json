@@ -1,6 +1,6 @@
 {
     "wp_options": {
-        "blogname": "SMK Bina Teknologi",
+        "blogname": "SMK Edu Media",
         "blogdescription": "Mewujudkan Generasi Cerdas dan Berkarakter",
         "users_can_register": 0
     },
@@ -11,7 +11,7 @@
         "marspinnacle_seo_keywords": "sekolah, pendidikan, prestasi, unggul, jakarta",
         "marspinnacle_alamat": "Jl. Pendidikan Raya No. 45, Jakarta Pusat",
         "marspinnacle_telp": "(021) 1234-5678",
-        "marspinnacle_email": "info@smkbinateknologi.sch.id",
+        "marspinnacle_email": "info@smkedumedia.sch.id",
         "marspinnacle_map_url": "https://maps.app.goo.gl/xyz"
     }
 }

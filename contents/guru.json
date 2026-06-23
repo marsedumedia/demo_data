@@ -1,8 +1,8 @@
 [
     {
         "nama": "Drs. Budi Santoso, M.Pd.",
-        "foto": "https://raw.githubusercontent.com/user/repo/main/images/teacher2.jpg",
-        "nip": "198001012005011001",
+        "foto": "https://raw.githubusercontent.com/marsedumedia/demo_data/refs/heads/main/images/teachers/teacher2.png",
+        "nip": "197001012005011001",
         "mapel": "Matematika",
         "jk": "Laki-laki",
         "linkedin": "https://linkedin.com/in/budi-santoso",
@@ -10,7 +10,7 @@
     },
     {
         "nama": "Siti Aminah, S.Si.",
-        "foto": "https://raw.githubusercontent.com/user/repo/main/images/siti.jpg",
+        "foto": "https://raw.githubusercontent.com/marsedumedia/demo_data/refs/heads/main/images/teachers/teacher3.png",
         "nip": "198505052010012002",
         "mapel": "Fisika",
         "jk": "Perempuan",
@@ -19,7 +19,7 @@
     },
     {
         "nama": "Andi Wijaya, S.Pd.",
-        "foto": "https://raw.githubusercontent.com/user/repo/main/images/andi.jpg",
+        "foto": "https://raw.githubusercontent.com/marsedumedia/demo_data/refs/heads/main/images/teachers/teacher4.png",
         "nip": "199010102015011003",
         "mapel": "Bahasa Inggris",
         "jk": "Laki-laki",
